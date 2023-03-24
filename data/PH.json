@@ -1,0 +1,31 @@
+{
+    "branches" : {
+        "Philippines" : {
+            "Collection_Point" : {
+                "countryCount" : 176,
+                "countryCode"  : "+63",
+                "countryName"  : "Philippines",
+                "firstName"    : "Auto_fName",
+                "lastName"     : "Auto_lName",
+                "city"         : "Cebu",
+                "password"     : "555555",
+                "smsCode"      : "555555",
+                "type"         : "Collection Point"
+            }
+        }
+    },
+    "processors" : {
+        "Philippines": {
+            "countryCount": 176,
+            "countryCode": "+63",
+            "countryName": "Philippines",
+            "city": "Cebu",
+            "password": "555555",
+            "smsCode": "555555",
+            "firstName": "Auto_fName",
+            "lastName": "Auto_lName",
+            "type": "Processor"
+        }
+    }
+
+}

@@ -1,0 +1,212 @@
+{
+    "Brazil" : {
+        "Coop": {
+            "nth"        : 0,
+            "name"       : "BR_BRN_",
+            "city"       : "Rio de Janiero",
+            "passwd"     : "555555",
+            "branchType" : 1
+        },
+        "CollectionPoint": {
+            "nth"        : 0,
+            "name"       : "BR_BRN_",
+            "city"       : "Rio de Janiero",
+            "passwd"     : "555555",
+            "branchType" : 3
+        },
+        "School" : {
+            "nth"        : 0,
+            "name"       : "BR_BRN_",
+            "city"       : "Rio de Janiero",
+            "passwd"     : "555555",
+            "branchType" : 4
+        },
+        "Faith" : {
+            "nth"        : 0,
+            "name"       : "BR_BRN_",
+            "city"       : "Rio de Janiero",
+            "passwd"     : "555555",
+            "branchType" : 5
+        }
+    },
+    "Egypt" : {
+        "Coop": {
+            "nth"        : 2,
+            "name"       : "EG_BRN_",
+            "city"       : "Cairo",
+            "passwd"     : "555555",
+            "branchType" : 1
+        },
+        "CollectionPoint": {
+            "nth"        : 2,
+            "name"       : "EG_BRN_",
+            "city"       : "Cairo",
+            "passwd"     : "555555",
+            "branchType" : 3
+        },
+        "School" : {
+            "nth"        : 2,
+            "name"       : "EG_BRN_",
+            "city"       : "Cairo",
+            "passwd"     : "555555",
+            "branchType" : 4
+        },
+        "Faith" : {
+            "nth"        : 2,
+            "name"       : "EG_BRN_",
+            "city"       : "Cairo",
+            "passwd"     : "555555",
+            "branchType" : 5
+        }
+    },
+    "Indonesia" : {
+        "Coop": {
+            "nth"        : 4,
+            "name"       : "IN_BRN_",
+            "city"       : "Jakarta",
+            "passwd"     : "555555",
+            "branchType" : 1
+        },
+        "CollectionPoint": {
+            "nth"        : 4,
+            "name"       : "IN_BRN_",
+            "city"       : "Jakarta",
+            "passwd"     : "555555",
+            "branchType" : 3
+        },
+        "School" : {
+            "nth"        : 4,
+            "name"       : "IN_BRN_",
+            "city"       : "Jakarta",
+            "passwd"     : "555555",
+            "branchType" : 4
+        },
+        "Faith" : {
+            "nth"        : 4,
+            "name"       : "IN_BRN_",
+            "city"       : "Jakarta",
+            "passwd"     : "555555",
+            "branchType" : 5
+        }
+    },
+    "Philippines" : {
+        "Coop": {
+            "nth"        : 5,
+            "name"       : "PH_BRN_",
+            "city"       : "Manila",
+            "passwd"     : "555555",
+            "branchType" : 1
+        },
+        "CollectionPoint": {
+            "nth"        : 5,
+            "name"       : "PH_BRN_",
+            "city"       : "Manila",
+            "passwd"     : "555555",
+            "branchType" : 3
+        },
+        "School" : {
+            "nth"        : 5,
+            "name"       : "PH_BRN_",
+            "city"       : "Manila",
+            "passwd"     : "555555",
+            "branchType" : 4
+        },
+        "Faith" : {
+            "nth"        : 5,
+            "name"       : "PH_BRN_",
+            "city"       : "Manila",
+            "passwd"     : "555555",
+            "branchType" : 5
+        }
+    },
+    "Thailand" : {
+        "Coop": {
+            "nth"        : 224,
+            "name"       : "TH_BRN_",
+            "city"       : "Bangkok",
+            "passwd"     : "555555",
+            "branchType" : 1
+        },
+        "CollectionPoint": {
+            "nth"        : 224,
+            "name"       : "TH_BRN_",
+            "city"       : "Bangkok",
+            "passwd"     : "555555",
+            "branchType" : 3
+        },
+        "School" : {
+            "nth"        : 224,
+            "name"       : "TH_BRN_",
+            "city"       : "Bangkok",
+            "passwd"     : "555555",
+            "branchType" : 4
+        },
+        "Faith" : {
+            "nth"        : 224,
+            "name"       : "TH_BRN_",
+            "city"       : "Bangkok",
+            "passwd"     : "555555",
+            "branchType" : 5
+        }
+    },
+    "Albania" : {
+        "Coop": {
+            "nth"        : 9,
+            "name"       : "AL_BRN_",
+            "city"       : "Yerevan",
+            "passwd"     : "555555",
+            "branchType" : 1
+        },
+        "CollectionPoint": {
+            "nth"        : 9,
+            "name"       : "AL_BRN_",
+            "city"       : "Yerevan",
+            "passwd"     : "555555",
+            "branchType" : 3
+        },
+        "School" : {
+            "nth"        : 9,
+            "name"       : "AL_BRN_",
+            "city"       : "Yerevan",
+            "passwd"     : "555555",
+            "branchType" : 4
+        },
+        "Faith" : {
+            "nth"        : 9,
+            "name"       : "AL_BRN_",
+            "city"       : "Yerevan",
+            "passwd"     : "555555",
+            "branchType" : 5
+        }
+    },
+    "Haiti" : {
+        "Coop": {
+            "nth"        : 3,
+            "name"       : "HA_BRN_",
+            "city"       : "Port-au-Prince",
+            "passwd"     : "555555",
+            "branchType" : 1
+        },
+        "CollectionPoint": {
+            "nth"        : 3,
+            "name"       : "HA_BRN_",
+            "city"       : "Port-au-Prince",
+            "passwd"     : "555555",
+            "branchType" : 3
+        },
+        "School" : {
+            "nth"        : 3,
+            "name"       : "HA_BRN_",
+            "city"       : "Port-au-Prince",
+            "passwd"     : "555555",
+            "branchType" : 4
+        },
+        "Faith" : {
+            "nth"        : 3,
+            "name"       : "HA_BRN_",
+            "city"       : "Port-au-Prince",
+            "passwd"     : "555555",
+            "branchType" : 5
+        }
+    }
+}

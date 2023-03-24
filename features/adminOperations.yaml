@@ -1,0 +1,57 @@
+Admin Operations (adminOperations.spec.js)
+    Admin adds a member @1001
+        When admin logs in
+        Then admin is redirected to dashboard area
+        When admin clicks member menu
+        Then member area is displayed
+        When admin adds a new member
+        Then a new member is added
+        And admin logs-out
+    Admin adds a branch @1002
+        When admin logs in
+        Then admin is redirected to dashboard area
+        When admin clicks member menu
+        Then member area is displayed
+        When admin adds a new member
+        Then a new member is added
+        When admin clicks branches menu
+        Then branches area is displayed
+        When admin adds a new branch
+        Then a new branch is added
+        And admin logs-out
+    Admin adds a processor @1003
+        When admin logs in
+        Then admin is redirected to dashboard area
+        When admin clicks member menu
+        Then member area is displayed
+        When admin adds a new member
+        Then a new member is added
+        When admin clicks processors menu
+        Then processors area is displayed
+        When admin adds a new processor
+        Then a new processor is added
+        And admin logs-out
+    Admin adds a store @1004
+        When admin logs in
+        Then admin is redirected to dashboard area
+        When admin clicks member menu
+        Then member area is displayed
+        When admin adds a new member
+        Then a new member is added
+        When admin clicks stores menu
+        Then stores area is displayed
+        When admin adds a new store
+        Then a new store is added
+        And admin logs-out
+    Admin adds a user with role @1005
+        When admin logs in
+        Then admin is redirected to dashboard area
+        When admin clicks member menu
+        Then member area is displayed
+        When admin adds a new member
+        Then a new member is added
+        When admin clicks Users menu
+        Then user area is displayed
+        When admin adds a new user
+        Then a new user is added
+        And admin logs-out

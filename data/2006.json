@@ -1,0 +1,30 @@
+{
+    "Processor" : {
+        "cellNum"      : "+931673539972019",
+        "countryCount" : 0,
+        "countryCode"  : "+93",
+        "countryName"  : "Afghanistan",
+        "firstName"    : "Auto_fName",
+        "lastName"     : "Auto_lName",
+        "city"         : "Kabul",
+        "password"     : "555555",
+        "smsCode"      : "555555",
+        "type"         : "Processor",
+        "membersToAdd" : 2,
+        "memberAdded"  : {}
+    },
+    "Processor_Another" : {
+        "cellNum"      : "+931673540645750",
+        "countryCount" : 0,
+        "countryCode"  : "+93",
+        "countryName"  : "Afghanistan",
+        "firstName"    : "Auto_fName",
+        "lastName"     : "Auto_lName",
+        "city"         : "Kabul",
+        "password"     : "555555",
+        "smsCode"      : "555555",
+        "type"         : "Processor",
+        "membersToAdd" : 3,
+        "memberAdded"  : {}
+    }
+}

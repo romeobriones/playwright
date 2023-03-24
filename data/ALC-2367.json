@@ -1,0 +1,26 @@
+{
+    "Afghanistan" : {
+        "countryCount" : 0,
+        "countryCode"  : "+93",
+        "countryName"  : "Afghanistan",
+        "city"         : "Kabul",
+        "password"     : "555555",
+        "smsCode"      : "555555",
+        "type"         : "Member",
+        "members"      : ["+"]
+    },
+"Albania" : {
+    "countryCount" : 0,
+    "countryCode"  : "+355",
+    "countryName"  : "Albania",
+    "city"         : "Yerevan",
+    "password"     : "555555",
+    "smsCode"      : "555555",
+    "type"         : "Member",
+    "members"      : [
+        "+",
+        "+",
+        "+"
+    ]
+}
+}

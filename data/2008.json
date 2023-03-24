@@ -1,0 +1,131 @@
+{
+    "BrCP_One" : {
+        "brType"   : "Collection Point",
+        "cCode"    : "+93",
+        "brNum"    : "1673509415489",
+        "cellNum"  : "+931673509415489",
+        "password" : "555555",
+        "members"  : [
+            "+931673511508074",
+            "+931673511521035"
+        ]
+    },
+    "BrCP_Two" : {
+        "brType"   : "Collection Point",
+        "cCode"    : "+93",
+        "brNum"    : "1673510370722",
+        "cellNum"  : "+931673510370722",
+        "password" : "555555",
+        "members"  : [
+            "+931673511646794",
+            "+931673511659748",
+            "+931673511671650",
+            "+931673511683359",
+            "+931673511695073",
+            "+931673511706766",
+            "+931673511718481",
+            "+931673511731125",
+            "+931673511743870",
+            "+931673511755567"
+        ]
+    },
+    "BrCP_Three" : {
+        "brType"   : "Collection Point",
+        "cCode"    : "+93",
+        "brNum"    : "1673628781756",
+        "cellNum"  : "+931673628781756",
+        "password" : "555555",
+        "members"  : [
+            "+93",
+            "+93"
+        ]
+    },
+    "BrCooP_One" : {
+        "brType"   : "Coop",
+        "cCode"    : "+93",
+        "brNum"    : "",
+        "cellNum"  : "+",
+        "password" : "555555",
+        "members"  : [
+            "+",
+            "+"
+        ]
+    },
+    "BrCooP_Two" : {
+        "brType"   : "Coop",
+        "cCode"    : "+93",
+        "brNum"    : "",
+        "cellNum"  : "+",
+        "password" : "555555",
+        "members"  : [
+            "+",
+            "+"
+        ]
+    },
+    "Workplace_Program_One" : {
+        "brType"   : "Workplace Program",
+        "cCode"    : "+93",
+        "brNum"    : "",
+        "cellNum"  : "+",
+        "password" : "555555",
+        "members"  : [
+            "+",
+            "+"
+        ]
+    },
+    "Workplace_Program_Two" : {
+        "brType"   : "Workplace Program",
+        "cCode"    : "+93",
+        "brNum"    : "",
+        "cellNum"  : "+",
+        "password" : "555555",
+        "members"  : [
+            "+",
+            "+"
+        ]
+    },
+    "School_Program_One" : {
+        "brType"   : "School Program",
+        "cCode"    : "+93",
+        "brNum"    : "",
+        "cellNum"  : "+",
+        "password" : "555555",
+        "members"  : [
+            "+",
+            "+"
+        ]
+    },
+    "School_Program_Two" : {
+        "brType"   : "School Program",
+        "cCode"    : "+93",
+        "brNum"    : "",
+        "cellNum"  : "+",
+        "password" : "555555",
+        "members"  : [
+            "+",
+            "+"
+        ]
+    },
+    "Faith_Program_One" : {
+        "brType"   : "Faith Program",
+        "cCode"    : "+93",
+        "brNum"    : "",
+        "cellNum"  : "+",
+        "password" : "555555",
+        "members"  : [
+            "+",
+            "+"
+        ]
+    },
+    "Faith_Program_Two" : {
+        "brType"   : "Faith Program",
+        "cCode"    : "+93",
+        "brNum"    : "",
+        "cellNum"  : "+",
+        "password" : "555555",
+        "members"  : [
+            "+",
+            "+"
+        ]
+    }
+}

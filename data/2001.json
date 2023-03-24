@@ -1,0 +1,22 @@
+{
+    "Afghanistan" : {
+        "countryCount"  : 0,
+        "countryCode"   : "+93",
+        "countryName"   : "Afghanistan",
+        "password"      : "555555",
+        "smsCode"       : "555555",
+        "firstName"     : "Auto_fName",
+        "lastName"      : "Auto_lName",
+        "type"          : "collector"
+    },
+    "Albania" : {
+        "countryCount"  : 2,
+        "countryCode"   : "+355",
+        "countryName"   : "Albania",
+        "password"      : "555555",
+        "smsCode"       : "555555",
+        "firstName"     : "Auto_fName",
+        "lastName"      : "Auto_lName",
+        "type"          : "collector"
+    }
+}

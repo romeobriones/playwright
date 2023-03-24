@@ -1,0 +1,262 @@
+{
+    "servers" : {
+        "qa" : {
+            "url" : "https://qa-admin.cognitionfoundry.io/#/login"
+        },
+        "stage" : {
+            "url" : "https://staging-admin.plasticbank.com/#/login"
+        },
+        "prod" : {
+            "url" : "https://admin.plasticbank.com/#/login"
+        },
+        "client" : {
+            "url" : "http://localhost:8100/"
+        }
+    },
+    "users_stage": {
+        "admin" : {
+            "phone"    : "+639176221914",
+            "password" : "Lucky480913",
+            "smsCode"  : "555555"
+        },
+        "branch" : {
+            "Auto_Branch_A" : {
+
+            },
+            "Auto_Branch_B" : {
+                
+            },
+            "Auto_Branch_C" : {
+                
+            }
+        },
+        "members" : {
+            "Auto_Member_A" : {
+                "phone"    : "12345",
+                "password" : "12345",
+                "smsCode"  : "12345"
+            },
+            "Auto_Member_B" : {
+                
+            },
+            "Auto_Member_C" : {
+                
+            }
+        },
+        "processor" : {
+            "Auto_Processor_A" : {
+
+            },
+            "Auto_Processor_B" : {
+                
+            },
+            "Auto_Processor_C" : {
+                
+            }
+        },
+        "collector" : {
+            "Auto_collector_A" : {
+
+            },
+            "Auto_collector_B" : {
+
+            },
+            "Auto_collector_C" : {
+
+            }
+        },
+        "aggregator" : {
+            "Auto_aggregator_A" : {
+
+            },
+            "Auto_aggregator_B" : {
+
+            },
+            "Auto_aggregator_C" : {
+
+            }
+        }
+    },
+    "users_qa": {
+        "admin" : {
+            "phone"    : "+639176221914",
+            "password" : "Lucky480913",
+            "smsCode"  : "555555"
+        },
+        "branch" : {
+            "Auto_Branch_A" : {
+                "name"       : "AL_BRN_1664527140619",
+                "cCode"      : "+355",
+                "phoneNum"   : 49337398569,
+                "country"    : "Albania",
+                "nth"        : 9,
+                "email"      : "49337398569@plasticBank.com",
+                "created"    : true,
+                "branchType" : "School"
+            },
+            "Auto_Branch_B" : {
+                "name"       : "AL_BRN_1664528251793",
+                "cCode"      : "+355",
+                "phoneNum"   : 16901274338,
+                "country"    : "Albania",
+                "nth"        : 9,
+                "email"      : "16901274338@plasticBank.com",
+                "created"    : true,
+                "branchType" : "School"
+            },
+            "Auto_Branch_C" : {
+                "name"       : "AL_BRN_1664530119737",
+                "cCode"      : "+355",
+                "phoneNum"   : 85052555115,
+                "country"    : "Albania",
+                "nth"        : 9,
+                "email"      : "85052555115@plasticBank.com",
+                "created"    : true,
+                "branchType" : "School"
+            }
+        },
+        "members" : {
+            "Auto_Member_A" : {
+                "name"       : "AL_M_1664529172587",
+                "city"       : "Yerevan",
+                "cCode"      : "+355",
+                "phoneNum"   : 85082587266,
+                "country"    : "Albania",
+                "nth"        : 9,
+                "email"      : "85082587266@plasticBank.com",
+                "created"    : true,
+                "branchType" : 0
+            },
+            "Auto_Member_B" : {
+                "name"       : "AL_M_1664530411308",
+                "city"       : "Yerevan",
+                "cCode"      : "+355",
+                "phoneNum"   : 76337778809,
+                "country"    : "Albania",
+                "nth"        : 9,
+                "email"      : "76337778809@plasticBank.com",
+                "created"    : true,
+                "branchType" : 0
+            },
+            "Auto_Member_C" : {
+                "name"       : "AL_M_1664544559116",
+                "city"       : "Yerevan",
+                "cCode"      : "+355",
+                "phoneNum"   : 97543482591,
+                "country"    : "Albania",
+                "nth"        : 9,
+                "email"      : "97543482591@plasticBank.com",
+                "created"    : true,
+                "branchType" : 0
+            }
+        },
+        "processor" : {
+            "Auto_Processor_A" : {
+                "name"      : "AL_PRO16645448409711664544971228",
+                "cCode"     : "+355",
+                "phoneNum"  : 33215990252,
+                "country"   : "Albania",
+                "nth"       : 9,
+                "email"     : "33215990252@plasticBank.com",
+                "created"   : true
+            },
+            "Auto_Processor_B" : {
+                "name"      : "AL_PRO16645456291111664545765099",
+                "cCode"     : "+355",
+                "phoneNum"  : 96305914841,
+                "country"   : "Albania",
+                "nth"       : 9,
+                "email"     : "96305914841@plasticBank.com",
+                "created"   : true
+            },
+            "Auto_Processor_C" : {
+                "name"      : "AL_PRO_1664865426825",
+                "cCode"     : "+355",
+                "phoneNum"  : 11704651263,
+                "country"   : "Albania",
+                "nth"       : 9,
+                "email"     : "11704651263@plasticBank.com",
+                "created"   : true
+            }
+        },
+        "collector" : {
+            "Auto_collector_A" : {
+
+            },
+            "Auto_collector_B" : {
+
+            },
+            "Auto_collector_C" : {
+
+            }
+        },
+        "aggregator" : {
+            "Auto_aggregator_A" : {
+
+            },
+            "Auto_aggregator_B" : {
+
+            },
+            "Auto_aggregator_C" : {
+
+            }
+        }
+    },
+
+
+    "businessType" : {
+        "Afghanistan" : {
+            "RecyclingBusiness": {
+                "countryCount" : 0,
+                "countryCode"  : "+355",
+                "countryName"  : "Afghanistan",
+                "fullName"     : "BR_BRN_",
+                "city"         : "Kabul",
+                "password"     : "555555",
+                "type"         : "branch",
+                "branchType"   : 1
+            },
+            "Store": {
+                "countryCount" : 0,
+                "countryCode"  : "+355",
+                "countryName"  : "Afghanistan",
+                "fullName"     : "BR_BRN_",
+                "city"         : "Kabul",
+                "password"     : "555555",
+                "type"         : "branch",
+                "branchType"   : 3
+            },
+            "WorkplaceProgram": {
+                "countryCount" : 0,
+                "countryCode"  : "+355",
+                "countryName"  : "Afghanistan",
+                "fullName"     : "BR_BRN_",
+                "city"         : "Kabul",
+                "password"     : "555555",
+                "type"         : "branch",
+                "branchType"   : 3
+            },
+            "FaithProgram" : {
+                "countryCount" : 0,
+                "countryCode"  : "+355",
+                "countryName"  : "Afghanistan",
+                "fullName"     : "BR_BRN_",
+                "city"         : "Kabul",
+                "password"     : "555555",
+                "type"         : "branch",
+                "branchType"   : 5
+            },
+            "SchoolProgam" : {
+                "countryCount" : 0,
+                "countryCode"  : "+355",
+                "countryName"  : "Afghanistan",
+                "fullName"     : "BR_BRN_",
+                "city"         : "Kabul",
+                "password"     : "555555",
+                "type"         : "branch",
+                "branchType" : 4
+            }
+        }
+    }
+    
+}

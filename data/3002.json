@@ -1,0 +1,63 @@
+{
+    "BrCP_One" : {
+        "brType"   : "Collection Point",
+        "cCode"    : "+93",
+        "brNum"    : "1673510370722",
+        "cellNum"  : "+931673510370722",
+        "password" : "555555",
+        "members"  : {
+            "+931673511646794" : ["Mixed Plastic", "HDPE-Mixed", "PET-Mixed"],
+            "+931673511659748" : ["PP-Mixed", "PS-Mixed"],
+            "+931673511671650" : ["LDPE-Mixed", "PVC-Mixed"],
+            "+931673511683359" : ["ABS-Mixed"],
+            "+931673511695073" : ["Caps-Mixed"],
+            "+931673511706766" : ["MALUTONG", "MONOBLOCK-Colored"]
+        },
+        "connected_branches" : []
+    },
+    "BrCP_Two" : {
+        "brType"   : "Collection Point",
+        "cCode"    : "+93",
+        "brNum"    : "1673509415489",
+        "cellNum"  : "+931673509415489",
+        "password" : "555555",
+        "members"  : [],
+        "connected_branches" : {
+            "+931673510370722" : [
+                "Mixed Plastic", 
+                "HDPE-Mixed",
+                "PET-Mixed",
+                "PP-Mixed",
+                "PS-Mixed",
+                "LDPE-Mixed",
+                "PVC-Mixed",
+                "ABS-Mixed",
+                "Caps-Mixed",
+                "MALUTONG",
+                "MONOBLOCK-Colored"
+            ]
+        }
+    },
+    "Pr_One" : {
+        "cCode"    : "+93",
+        "brNum"    : "1673509733467",
+        "cellNum"  : "+931673509733467",
+        "password" : "555555",
+        "members"  : [],
+        "connected_branches" : {
+            "+931673509415489" : [
+                "Mixed Plastic", 
+                "HDPE-Mixed",
+                "PET-Mixed",
+                "PP-Mixed",
+                "PS-Mixed",
+                "LDPE-Mixed",
+                "PVC-Mixed",
+                "ABS-Mixed",
+                "Caps-Mixed",
+                "MALUTONG",
+                "MONOBLOCK-Colored"
+            ]
+        }
+    }
+}

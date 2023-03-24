@@ -1,0 +1,50 @@
+{
+    "BrCP" : {
+        "brType"   : "Collection Point",
+        "cCode"    : "+93",
+        "brNum"    : "",
+        "cellNum"  : "+",
+        "password" : "555555",
+        "member"   : "+"
+    },
+    "BrCP_One" : {
+        "brType"   : "Collection Point",
+        "cCode"    : "+93",
+        "brNum"    : "",
+        "cellNum"  : "+",
+        "password" : "555555",
+        "member"   : "+"
+    },
+    "BrCooP" : {
+        "brType"   : "Coop",
+        "cCode"    : "+93",
+        "brNum"    : "",
+        "cellNum"  : "+",
+        "password" : "555555",
+        "member"   : "+"
+    },
+    "Workplace_Program" : {
+        "brType"   : "Workplace Program",
+        "cCode"    : "+93",
+        "brNum"    : "",
+        "cellNum"  : "+",
+        "password" : "555555",
+        "member"   : "+"
+    },
+    "School_Program" : {
+        "brType"   : "School Program",
+        "cCode"    : "+93",
+        "brNum"    : "",
+        "cellNum"  : "+",
+        "password" : "555555",
+        "member"   : "+"
+    },
+    "Faith_Program" : {
+        "brType"   : "Faith Program",
+        "cCode"    : "+93",
+        "brNum"    : "",
+        "cellNum"  : "+",
+        "password" : "555555",
+        "member"   : "+"
+    }
+}

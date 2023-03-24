@@ -1,0 +1,64 @@
+{
+    "BrCP_One" : {
+        "brType"   : "Collection Point",
+        "cCode"    : "+93",
+        "brNum"    : "1673510370722",
+        "cellNum"  : "+931673510370722",
+        "password" : "555555",
+        "members"  : [
+            ["+931673511646794", "Mixed Plastic"],
+            ["+931673511659748", "HDPE-Mixed"],
+            ["+931673511671650", "PET-Mixed"],
+            ["+931673511683359", "PP-Mixed"],
+            ["+931673511683359", "PS-Mixed"],
+            ["+931673511695073", "LDPE-Mixed"],
+            ["+931673511706766", "PVC-Mixed"],
+            ["+931673511718481", "ABS-Mixed"],
+            ["+931673511731125", "Caps-Mixed"],
+            ["+931673511743870", "MALUTONG"],
+            ["+931673511755567", "MONOBLOCK-Colored"]
+        ],
+        "connected_branches" : []
+    },
+    "BrCP_Two" : {
+        "brType"   : "Collection Point",
+        "cCode"    : "+93",
+        "brNum"    : "1673509415489",
+        "cellNum"  : "+931673509415489",
+        "password" : "555555",
+        "members"  : [],
+        "connected_branches" : [
+            ["+931673510370722", "Mixed Plastic"],
+            ["+931673510370722", "HDPE-Mixed"],
+            ["+931673510370722", "PET-Mixed"],
+            ["+931673510370722", "PP-Mixed"],
+            ["+931673510370722", "PS-Mixed"],
+            ["+931673510370722", "LDPE-Mixed"],
+            ["+931673510370722", "PVC-Mixed"],
+            ["+931673510370722", "ABS-Mixed"],
+            ["+931673510370722", "Caps-Mixed"],
+            ["+931673510370722", "MALUTONG"],
+            ["+931673510370722", "MONOBLOCK-Colored"]
+        ]
+    },
+    "Pr_One" : {
+        "cCode"    : "+93",
+        "brNum"    : "1673509733467",
+        "cellNum"  : "+931673509733467",
+        "password" : "555555",
+        "members"  : [],
+        "connected_branches" : [
+            ["+931673509415489", "Mixed Plastic"],
+            ["+931673509415489", "HDPE-Mixed"],
+            ["+931673509415489", "PET-Mixed"],
+            ["+931673509415489", "PP-Mixed"],
+            ["+931673509415489", "PS-Mixed"],
+            ["+931673509415489", "LDPE-Mixed"],
+            ["+931673509415489", "PVC-Mixed"],
+            ["+931673509415489", "ABS-Mixed"],
+            ["+931673509415489", "Caps-Mixed"],
+            ["+931673509415489", "MALUTONG"],
+            ["+931673509415489", "MONOBLOCK-Colored"]
+        ]
+    }
+}

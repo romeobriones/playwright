@@ -1,0 +1,212 @@
+{
+    "Brazil" : {
+        "AppManager": {
+            "nth"        : 0,
+            "name"       : "BR_USR_",
+            "city"       : "Rio de Janiero",
+            "passwd"     : "555555",
+            "userRole"   : 1
+        },
+        "AccountManager": {
+            "nth"        : 0,
+            "name"       : "BR_USR_",
+            "city"       : "Rio de Janiero",
+            "passwd"     : "555555",
+            "userRole"   : 2
+        },
+        "Auditor" : {
+            "nth"        : 0,
+            "name"       : "BR_USR_",
+            "city"       : "Rio de Janiero",
+            "passwd"     : "555555",
+            "userRole"   : 3
+        },
+        "PbStaff" : {
+            "nth"        : 0,
+            "name"       : "BR_USR_",
+            "city"       : "Rio de Janiero",
+            "passwd"     : "555555",
+            "userRole"   : 4
+        }
+    },
+    "Egypt" : {
+        "AppManager": {
+            "nth"        : 1,
+            "name"       : "EG_USR_",
+            "city"       : "Cairo",
+            "passwd"     : "555555",
+            "userRole"   : 1
+        },
+        "AccountManager": {
+            "nth"        : 2,
+            "name"       : "EG_USR_",
+            "city"       : "Cairo",
+            "passwd"     : "555555",
+            "userRole"   : 2
+        },
+        "Auditor" : {
+            "nth"        : 2,
+            "name"       : "EG_USR_",
+            "city"       : "Cairo",
+            "passwd"     : "555555",
+            "userRole"   : 3
+        },
+        "PbStaff" : {
+            "nth"        : 2,
+            "name"       : "EG_USR_",
+            "city"       : "Cairo",
+            "passwd"     : "555555",
+            "userRole"   : 4
+        }
+    },
+    "Indonesia" : {
+        "AppManager": {
+            "nth"        : 4,
+            "name"       : "IN_USR_",
+            "city"       : "Jakarta",
+            "passwd"     : "555555",
+            "userRole"   : 1
+        },
+        "AccountManager": {
+            "nth"        : 4,
+            "name"       : "IN_USR_",
+            "city"       : "Jakarta",
+            "passwd"     : "555555",
+            "userRole"   : 2
+        },
+        "Auditor" : {
+            "nth"        : 4,
+            "name"       : "IN_USR_",
+            "city"       : "Jakarta",
+            "passwd"     : "555555",
+            "userRole"   : 3
+        },
+        "PbStaff" : {
+            "nth"        : 4,
+            "name"       : "IN_USR_",
+            "city"       : "Jakarta",
+            "passwd"     : "555555",
+            "userRole"   : 4
+        }
+    },
+    "Philippines" : {
+        "AppManager": {
+            "nth"        : 5,
+            "name"       : "PH_USR_",
+            "city"       : "Manila",
+            "passwd"     : "555555",
+            "userRole"   : 1
+        },
+        "AccountManager": {
+            "nth"        : 5,
+            "name"       : "PH_USR_",
+            "city"       : "Manila",
+            "passwd"     : "555555",
+            "userRole"   : 2
+        },
+        "Auditor" : {
+            "nth"        : 5,
+            "name"       : "PH_USR_",
+            "city"       : "Manila",
+            "passwd"     : "555555",
+            "userRole"   : 3
+        },
+        "PbStaff" : {
+            "nth"        : 5,
+            "name"       : "PH_USR_",
+            "city"       : "Manila",
+            "passwd"     : "555555",
+            "userRole"   : 4
+        }
+    },
+    "Thailand" : {
+        "AppManager": {
+            "nth"        : 224,
+            "name"       : "TH_USR_",
+            "city"       : "Bangkok",
+            "passwd"     : "555555",
+            "userRole"   : 1
+        },
+        "AccountManager": {
+            "nth"        : 224,
+            "name"       : "TH_USR_",
+            "city"       : "Bangkok",
+            "passwd"     : "555555",
+            "userRole"   : 2
+        },
+        "Auditor" : {
+            "nth"        : 224,
+            "name"       : "TH_USR_",
+            "city"       : "Bangkok",
+            "passwd"     : "555555",
+            "userRole"   : 3
+        },
+        "PbStaff" : {
+            "nth"        : 224,
+            "name"       : "TH_USR_",
+            "city"       : "Bangkok",
+            "passwd"     : "555555",
+            "userRole"   : 4
+        }
+    },
+    "Albania" : {
+        "AppManager": {
+            "nth"        : 9,
+            "name"       : "AL_USR_",
+            "city"       : "Yerevan",
+            "passwd"     : "555555",
+            "userRole"   : 1
+        },
+        "AccountManager": {
+            "nth"        : 9,
+            "name"       : "AL_USR_",
+            "city"       : "Yerevan",
+            "passwd"     : "555555",
+            "userRole"   : 2
+        },
+        "Auditor" : {
+            "nth"        : 9,
+            "name"       : "AL_USR_",
+            "city"       : "Yerevan",
+            "passwd"     : "555555",
+            "userRole"   : 3
+        },
+        "PbStaff" : {
+            "nth"        : 9,
+            "name"       : "AL_USR_",
+            "city"       : "Yerevan",
+            "passwd"     : "555555",
+            "userRole"   : 4
+        }
+    },
+    "Haiti" : {
+        "AppManager": {
+            "nth"        : 3,
+            "name"       : "HA_USR_",
+            "city"       : "Port-au-Prince",
+            "passwd"     : "555555",
+            "userRole"   : 1
+        },
+        "AccountManager": {
+            "nth"        : 3,
+            "name"       : "HA_USR_",
+            "city"       : "Port-au-Prince",
+            "passwd"     : "555555",
+            "userRole"   : 2
+        },
+        "Auditor" : {
+            "nth"        : 3,
+            "name"       : "HA_USR_",
+            "city"       : "Port-au-Prince",
+            "passwd"     : "555555",
+            "userRole"   : 3
+        },
+        "PbStaff" : {
+            "nth"        : 3,
+            "name"       : "HA_USR_",
+            "city"       : "Port-au-Prince",
+            "passwd"     : "555555",
+            "userRole"   : 4
+        }
+    }
+}

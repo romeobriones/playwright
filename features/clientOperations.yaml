@@ -1,0 +1,68 @@
+Client Operations
+
+    A user registers from client app as collector @2001
+        When user opens plasticBank client app
+        Then landing page is displayed
+        When user taps signup
+        Then user can register as a collecor
+        When user taps collecor
+        Then user can register a new account
+        When user taps Become Collector
+        Then user can create profile
+        When user inputs profile data
+        Then verify phone header appears
+        When member skips verify phone
+        Then member dashboard is displayed
+        When member logouts
+        Then browser is closed and test ends
+
+    A user registers from client app as branch @2002
+        When user opens plasticBank client app
+        Then landing page is displayed
+        When user taps signup
+        Then user can register as a collector
+        When user taps collecor
+        Then user can register a new account
+        When user taps Become Collector
+        Then user can create profile
+        When user inputs profile data
+        Then verify phone header appears
+        When member skips verify phone
+        Then member dashboard is displayed
+        When member creates a branch business
+        Then account is now a branch type
+        When member logouts
+        Then browser is closed and test ends
+
+    A user registers from client app as processor @2003
+        When user opens plasticBank client app
+        Then landing page is displayed
+        When user taps signup
+        Then user can register as a collector
+        When user taps collecor
+        Then user can create profile
+        When user inputs profile data
+        Then verify phone header appears
+        When member skips verify phone
+        Then member dashboard is displayed
+        When member creates a processor business
+        Then account is now a processor type
+        When member logouts
+        Then browser is closed and test ends
+
+    A user registers from client app as aggregator @2004
+        When user opens plasticBank client app
+        Then landing page is displayed
+        When user taps signup
+        Then user can register as a collector
+        When user taps collecor
+        Then user can create profile
+        When user inputs profile data
+        Then verify phone header appears
+        When member skips verify phone
+        Then member dashboard is displayed
+        When member creates an aggregator business
+        Then account is now an aggregator type
+        When member logouts
+        Then browser is closed and test ends
+

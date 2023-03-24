@@ -1,0 +1,44 @@
+{
+    "Brazil" : {
+        "nth"        : 0,
+        "name"       : "BR_M_",
+        "city"       : "Rio de Janiero",
+        "passwd"     : "555555"
+    },
+    "Egypt" : {
+        "nth"        : 2,
+        "name"       : "EG_M_",
+        "city"       : "Cairo",
+        "passwd"     : "555555"
+    },
+    "Indonesia" : {
+        "nth"        : 4,
+        "name"       : "IN_M_",
+        "city"       : "Jakarta",
+        "passwd"     : "555555"
+    },
+    "Philippines" : {
+        "nth"        : 5,
+        "name"       : "PH_M_",
+        "city"       : "Manila",
+        "passwd"     : "555555"
+    },
+    "Thailand" : {
+        "nth"        : 224,
+        "name"       : "TH_M_",
+        "city"       : "Bangkok",
+        "passwd"     : "555555"
+    },
+    "Albania" : {
+        "nth"        : 9,
+        "name"       : "AL_M_",
+        "city"       : "Yerevan",
+        "passwd"     : "555555"
+    },
+    "Haiti" : {
+        "nth"        : 3,
+        "name"       : "HA_M_",
+        "city"       : "Port-au-Prince",
+        "passwd"     : "555555"
+    }
+}

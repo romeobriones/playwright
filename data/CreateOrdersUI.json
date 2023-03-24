@@ -1,0 +1,26 @@
+{
+  "Category" : {
+    "Plastic": {
+      "option" : "0: Object",
+      "value"  : " Plastic  "
+      },
+      "AllEligibleMaterials": {
+        "value" : "9: Object",
+        "text"  : " All eligible materials  "
+      }
+  },
+  "MaterialType" : {
+    "Mixed Plastic": {
+      "option" : "1: Object",
+      "text"  : " Mixed Plastic  "
+    },
+    "HDPE": {
+      "option" : "2: Object",
+      "text"  : " HDPE  "
+    },
+    "PET": {
+      "option" : "3: Object",
+      "text"  : " PET  "
+    }
+  }
+}
