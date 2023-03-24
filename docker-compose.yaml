@@ -1,0 +1,7 @@
+version: "4.13.1"
+
+services:
+  test:
+    build: .
+    restart: on-failure 
+    entrypoint: ["npm", "run", "test"]
